@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Operasional Multi-Kegiatan & Deteksi Anomali",
+  "description": "Dashboard terpadu untuk monitoring lapangan multi-kegiatan, repository materi, deteksi evaluasi anomali/outlier, serta kustomisasi struktur menu dan template operasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
